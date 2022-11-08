@@ -1,0 +1,142 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin: 47px 0 246px 42px;
+    
+}
+
+.link-header {
+    margin-right: 32px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.875px;
+    color: #17233D;
+    
+
+}
+
+.link-button {
+    background: #6FBF44;
+    border: 1px solid #4CB538;
+    border-radius: 6px;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    width: 124px;
+    height: 51px;
+    cursor: pointer;
+    
+
+
+}
+
+.image-trampo {
+    margin-left:121px;
+    display: inline-block;
+}
+
+section {
+    display: inline-block;
+    margin-left: 84px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    letter-spacing: 0.596154px;
+    color: #161A49;
+    width: 582px;
+    height: 164px;
+}
+
+p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    color: #4B505A;
+    width: 493px;
+    margin-top: 47px;
+}
+
+.link-wide {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 1px;
+    color: #6FBF44;
+    margin-top: 55px;
+    cursor: pointer;
+    background: transparent;
+    border: none;
+
+}
+
+@media screen and (max-width:750px) {
+
+   .link-header {
+    display: none;
+   }
+
+   .link-button {
+    position: fixed;
+    top: 17px;
+    right: 18px;
+    width: 91px;
+    height: 31px;
+   }
+
+   .image-trampo {
+    display: block;
+    position:absolute;
+    top: 100%;
+    left: 50px;
+    margin: 0;
+    padding: 0;
+   }
+   .link-section {
+    display: block;
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+   }
+
+   h1 {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 30px;
+    text-align: center;
+    width: 278px;
+    height: 60px;
+    margin: auto;
+   }
+
+   p {
+    margin: 26px 70px;
+    padding: 0;
+    height: 165px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    text-align: center;
+   }
+
+   .link-wide {
+    display: block;
+    margin: 0 auto;
+   }
+}
+
+
+
+
