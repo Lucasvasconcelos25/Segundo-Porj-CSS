@@ -11,5 +11,5 @@
  
 <h4>Confirá o resultado nas imagens abaixo: <h4>
 
-  
+  <img src="https://github.com/Lucasvasconcelos25/Wide-Covarege/blob/master/assets/Captura%20de%20Tela%20(18).png?raw=true" alt="wide-image">
   
