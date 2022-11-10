@@ -46,7 +46,8 @@ header {
 section {
     display: inline-block;
     margin-left: 84px;
-}
+    position: absolute;
+}   
 
 h1 {
     font-weight: 700;
