@@ -100,9 +100,11 @@ p {
     display: block;
     position:absolute;
     top: 100%;
-    left: 50px;
+    left: 150px;
     margin: 0;
     padding: 0;
+    width: 312px;
+    height: 288px;
    }
    .link-section {
     display: block;
