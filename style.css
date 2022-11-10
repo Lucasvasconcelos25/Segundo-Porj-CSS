@@ -46,7 +46,7 @@ header {
 section {
     display: inline-block;
     margin-left: 84px;
-    position: absolute;
+    position: fixed;
 }   
 
 h1 {
